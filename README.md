@@ -36,5 +36,5 @@ This project analyzes sales, customer behavior, product performance, and shippin
 
 ## Contact
 
-For questions, contact: [Your Name] - Business Intelligence Analyst  
+For questions, contact: [Kingsley Omodigono Oghenekaro] - Business Intelligence Analyst  
 Email: omleysplufic@gmail.com

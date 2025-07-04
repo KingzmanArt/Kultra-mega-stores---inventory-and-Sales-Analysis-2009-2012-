@@ -3,7 +3,7 @@
 This repository contains the complete SQL-based business intelligence case study for **Kultra Mega Stores (KMS)** focused on the **Abuja division** between **2009 and 2012**. The analysis was conducted using SQL Server Management Studio (SSMS), Excel, and Power BI, and the results inform sales strategy, customer behavior, and shipping logistics.
 
 
-## 📌 Table of Contents
+## Table of Contents
 
 1. [Project Overview](#1-project-overview)  
 2. [Data Source](#2-data-source)  

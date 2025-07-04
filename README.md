@@ -54,14 +54,14 @@ Performed via SQL aggregations and grouped metrics:
 
 | Metric | Result |
 |--------|--------|
-| **Top product category** | Technology ($5,884,248.10) |
+| **Top product category** | Technology (₦5,884,248.10) |
 | **Top 3 regions by sales** | West, Ontario, Prairie |
-| **Appliance sales in Ontario** | $202,548.84 |
-| **Shipping method with highest cost** | Delivery Truck ($51,911.94) |
+| **Appliance sales in Ontario** | ₦202,548.84 |
+| **Shipping method with highest cost** | Delivery Truck (₦51,911.94) |
 | **Top 5 customers by sales** | Emily Phan, Deborah Brumfield, Roy Skaria, Sylvia Foulston, Grant Carroll |
 | **Top small business customer** | Dennis Krink |
 | **Top corporate customer by orders** | Adam Hunt (27 orders) |
-| **Most profitable consumer customer** | Emily Phan ($34,005.44) |
+| **Most profitable consumer customer** | Emily Phan (₦34,005.44) |
 | **Returned order customers** | 15 distinct customers from various segments |
 | **Shipping vs Order Priority Summary** | Mismatch observed between priority level and shipping cost |
 
@@ -219,7 +219,7 @@ ORDER BY Order_Priority, Ship_Mode;
 
 ## 📬 Contact
 
-**Analyst**: Kingsley Omodigono  
+**Analyst**: Kingsley Omodigono Oghenekaro
 **Role**: Business Intelligence Analyst  
 **Tools Used**: SSMS, Excel.  
 **Email**: omleysplufic@gmail.com
